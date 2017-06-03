@@ -24,6 +24,12 @@ systemItems=(
     /private/tmp/com.mackeeper.MacKeeper.Installer.config
     /private/tmp/preinstall-JustCloud.log
     /private/tmp/postinstall-JustCloud.log
+    #Following items added by Abhishek Ghosh ( thecustomizewindows.com )
+    /private/var/db/receipts/.MacKeeper.affid.pkg.bom
+    /private/var/db/receipts/.MacKeeper.affid.pkg.plist
+    /private/var/db/receipts/.MacKeeper.pkg.bom
+    /private/var/db/receipts/.MacKeeper.pkg.plist
+    
 )
 
 # Items at the user level to be removed
